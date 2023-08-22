@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akanand123
 - 👀 I’m interested in graphics editing 
-- 🌱 I’m currently working on web page guthub project
+- 🌱 I’m currently working on web page github project
 - 💞️ I’m looking to collaborate on team management 
 - 📫 How to reach me through LinkedIn 
 
